@@ -3,7 +3,8 @@
 #include <stdlib.h>
 
 #define USER_FILE "users.txt"
-#define SCORE_FILE "scores.txt"
+#define SCORE_FILE "scores.txt"  
+
 
 // Function declarations
 void registerUser();
