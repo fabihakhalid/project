@@ -10,7 +10,7 @@ void registerUser();
 int loginUser(char* username);
 void startQuiz(const char* username);
 void saveScore(const char* username, int score);
-
+  
 int main() {
     int choice;
     char username[20];
